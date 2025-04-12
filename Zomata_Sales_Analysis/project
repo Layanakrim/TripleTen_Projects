@@ -1,0 +1,79 @@
+📊 Zomato Sales Analysis Report
+🔍 Overview
+This project analyzes Zomato’s restaurant sales data across multiple dimensions to uncover key trends and provide actionable recommendations. The dataset includes orders, city-level activity, cuisine preferences, and restaurant performance, with the objective of driving strategic improvements in revenue, customer engagement, and regional operations.
+
+🎯 Objectives
+Identify top-performing restaurants and cuisines
+
+Analyze cities contributing the highest revenue and order volume
+
+Detect time-based sales trends and seasonal variations
+
+Understand pricing vs quantity dynamics
+
+Highlight gaps between order volume and revenue
+
+❓ Key Business Questions
+Which restaurants generate high order volume but low revenue?
+
+What cities bring in the most revenue and sales?
+
+What are the top-selling cuisines and restaurants?
+
+How do sales and revenue trend over time?
+
+🧠 Hypotheses
+High order volume does not always translate to high revenue due to local pricing and discounting.
+
+Specific cuisines might attract more high-value orders.
+
+Seasonal events or campaigns may drive spikes in revenue.
+
+📈 Key Insights
+1. Sales Quantity vs Revenue
+A strong correlation exists between order volume and revenue, but city-specific pricing impacts profitability.
+
+Recommendation: Apply regional pricing models and tailored promotions to optimize revenue.
+
+2. Sales Trends Over Time
+Peak sales occurred in early 2018, followed by a decline through 2020—likely impacted by external factors like COVID-19.
+
+Recommendation: Analyze successful historical campaigns and replicate them during strategic periods.
+
+3. Cuisine Preferences
+Italian-American cuisine leads in revenue-per-order.
+
+Niche cuisines like Assamese-Thai and Bakery-Mexican also show strong performance.
+
+Recommendation: Highlight premium cuisines in marketing and uplift underperformers via bundling or seasonal promotion.
+
+4. Restaurant Performance
+National chains like Domino’s, Pizza Hut, and KFC dominate.
+
+Mid-tier restaurants show untapped growth potential.
+
+Recommendation: Boost visibility of smaller players with in-app features and partner support programs.
+
+5. City-Level Analysis
+Electronic City (Bangalore) and Indirapuram (Delhi) are revenue hotspots.
+
+Other cities like Bikaner have consistent sales but low growth.
+
+Recommendation: Launch localized campaigns to support underperforming areas while doubling down on top regions.
+
+✅ Recommendations Summary
+Reinvest in top zones (e.g., Electronic City, Indirapuram) for launching new features and offers.
+
+Target low-performance areas with localized promotions and cuisine partnerships.
+
+Promote premium cuisines through influencer and combo deal campaigns.
+
+Support mid-tier restaurants via enhanced visibility and training programs.
+
+Reinstate historical strategies from peak sales periods to recapture lost momentum.
+
+Implement dynamic, city-specific pricing models to improve balance between order volume and profit margins.
+
+📌 Conclusion
+Zomato’s restaurant sales data reveals clear geographic, seasonal, and cuisine-related patterns. By applying localized strategies, enhancing underperforming segments, and building on historical success, Zomato can drive sustainable growth and improve overall marketplace efficiency.
+
