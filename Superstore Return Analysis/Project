@@ -1,0 +1,30 @@
+📦 Superstore Return Analysis
+One-liner: An interactive Tableau dashboard project analyzing root causes of high return rates in Superstore orders to help executives reduce operational inefficiencies.
+🔗 Live Tableau Dashboard: https://public.tableau.com/app/profile/layan.akrim/viz/LayansDashboard/SalesandReturnsTrends
+
+📌 Key Highlights
+Purpose & Problem Solved:
+Built a comprehensive return monitoring system using Superstore order and return data. The goal was to identify patterns and root causes behind high return rates to help the CEO take corrective action and reduce lost revenue.
+
+Visuals & Analysis Included:
+
+Scatterplot showing correlation between sales and return rate by product subcategory
+
+Bar charts of return rates by product category and customer segment
+
+Geographic maps highlighting city/state-level return concentrations
+
+Time-series analysis revealing seasonal return trends
+
+Composite charts showing multi-factor trends in returns (e.g., time + geography + category)
+
+Technologies Used:
+
+Tableau for data visualization & dashboard development
+
+Excel for data preprocessing and LEFT JOIN logic
+
+Storytelling through Tableau Story Points
+
+Timeline & Team:
+Completed in 2 weeks as a solo project. Full-cycle work from data join logic to dashboard storytelling.
